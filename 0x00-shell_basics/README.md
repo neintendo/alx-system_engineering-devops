@@ -11,3 +11,5 @@
 5-listfilesdigitonly: This script display contents in long format with user and group IDs displayed numerically, and hidden files.
 
 6-firstdirectory: This script create a directory named my_first_directory in the /tmp/ directory.
+
+7-movethatfile: This script moves /tmp/betty/ to /tmp/my_first_directory/.
