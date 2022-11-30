@@ -23,3 +23,5 @@
 11-lists: This scripts lists all files (including hidden ones) in the current directory, parent of the working directory and /boot.
 
 12-file_type: This scripts checks the type of the file /tmp/iamafile
+
+13-symbolic_link: This script creates a symbolic link to /bin/ls named __ls__
