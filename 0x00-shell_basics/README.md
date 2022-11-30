@@ -28,6 +28,8 @@
 
 14-copy_html: This script copies all HTML files from the current working directory to the parent working directory but only copies files that did not exist before or newer files.
 
-100-lets_move: Moves all files beginning with an uppercase letter to the directory /tmp/u
+100-lets_move: This script moves all files beginning with an uppercase letter to the directory /tmp/u
 
-101-clean_emacs: Deletes all files created by emacs that end with ~
+101-clean_emacs: This script deletes all files created by emacs that end with ~
+
+102-tree: This script creates the directories welcome/, welcome/to and welcome/to/school
