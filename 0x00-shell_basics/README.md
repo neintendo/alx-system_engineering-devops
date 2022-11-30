@@ -33,3 +33,5 @@
 101-clean_emacs: This script deletes all files created by emacs that end with ~
 
 102-tree: This script creates the directories welcome/, welcome/to and welcome/to/school
+
+103-commas: This script lists all the files and directories of the current directory, separated by commas. Directory names also end with a slash (/)
