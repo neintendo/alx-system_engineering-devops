@@ -9,3 +9,5 @@
 4-empty: This script creates an empty file called "hello".
 
 5-execute: This script adds the execute permission to the file "hello".
+
+6-multiple_permissions: This script adds execute permission to the owner and the group owner, and read permission to other users, to the file "hello".
