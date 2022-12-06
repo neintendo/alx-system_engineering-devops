@@ -1,0 +1,1 @@
+0-alias: This script creates an alias named ls that deletes all files in the current directory.
