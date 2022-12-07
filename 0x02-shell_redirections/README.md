@@ -25,3 +25,27 @@
 12-newest_files: This script displays the 10 newest files in the current directory.
 
 13-unique: This script takes a list of words as input and prints only words that appear exactly once.
+
+14-findthatword: This script displays lines containing the pattern “root” from the file /etc/passwd.
+
+15-countthatword: This script displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+16-whatsnext: This script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+17-hidethisword: This script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18-letteronly: This script displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+19-AZ: This script replaces all characters A and c from input to Z and e respectively.
+
+20-hiago: This script removes all letters c and C from input.
+
+21-reverse: This script reverses it's input.
+
+22-users_and_homes: This script displays all users and their home directories, sorted by users.
+
+100-empty_casks: This script finds all empty files and directories in the current directory and all sub-directories.
+
+101-gifs: This script lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+102-acrostic: This script decodes acrostics that use the first letter of each line.
