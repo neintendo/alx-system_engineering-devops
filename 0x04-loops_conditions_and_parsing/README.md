@@ -24,3 +24,8 @@
 
 - display hours from 0 to 12.
 - display minutes from 1 to 59.
+
+**8-for_ls:** a Bash script that displays:
+
+- The content of the current directory.
+- In a list format.
